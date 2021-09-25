@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CUREYA_Chatbot.iml" filepath="$PROJECT_DIR$/.idea/modules/CUREYA_Chatbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CUREYA_Chatbot.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CUREYA_Chatbot.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loadingballs/CUREYA_Chatbot.loadingballs.iml" filepath="$PROJECT_DIR$/.idea/modules/loadingballs/CUREYA_Chatbot.loadingballs.iml" />
+    </modules>
+  </component>
+</project>
